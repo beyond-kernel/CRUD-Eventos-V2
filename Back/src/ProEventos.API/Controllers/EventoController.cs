@@ -43,11 +43,20 @@ namespace ProEventos.API.Controllers
             return $"exemplo put {id}";
         }
 
-        
+
         [HttpDelete("{id}")]
-        public string Delete(int id)
+        public IActionResult Delete(int id)
         {
-            return $"exemplo delete {id}";
+            var evento = _dataContext.Eventos.FirstOrDefault(x => x.EventoId == id);
+
+            if (evento.EventoId > 0)
+            {
+                _dataContext.Eventos.Remove(evento );
+                _dataContext.SaveChanges();
+                return StatusCode(1);
+            }
+
+           return StatusCode(id);
         }
     }
 }
