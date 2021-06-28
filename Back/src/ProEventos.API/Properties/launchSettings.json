@@ -11,6 +11,7 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
+      "hotReloadProfile": "aspnetcore",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
