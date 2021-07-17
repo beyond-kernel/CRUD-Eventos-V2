@@ -12,4 +12,4 @@ build_property.RazorLangVersion = 5.0
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = c:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API
 build_property._RazorSourceGeneratorDebug = 
-build_property._RazorSourceGeneratorLog =
+build_property._RazorSourceGeneratorHeapDumps =
