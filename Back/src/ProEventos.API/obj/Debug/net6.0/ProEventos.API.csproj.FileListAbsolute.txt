@@ -4,7 +4,6 @@ C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\sr
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.deps.json
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.runtimeconfig.json
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.dll
-C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ref\ProEventos.API.dll
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.pdb
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -50,10 +49,15 @@ C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\sr
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.csproj.CoreCompileInputs.cache
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\scopedcss\bundle\ProEventos.API.styles.css
-C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.csproj.CopyComplete
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.dll
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ref\ProEventos.API.dll
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.pdb
 C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.genruntimeconfig.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.staticwebassets.json
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.staticwebassets.runtime.json
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.API.StaticWebAssets.xml
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.ImplicitNamespaceImports.cs
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.StaticWebAssets.xml
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\StaticWebAssets.build.json
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\ProEventos.API\obj\Debug\net6.0\refint\ProEventos.API.dll
