@@ -10,6 +10,8 @@ export class EventosComponent implements OnInit {
 
   public eventos: any = [];
 
+  show = true;
+
   constructor(private http: HttpClient) { }
 
   ngOnInit(): void {
@@ -21,5 +23,9 @@ export class EventosComponent implements OnInit {
       response => this.eventos = response,
       error => console.log(error)
     );
+  }
+
+  showImage(){
+    this.show = !this.show;
   }
 }
