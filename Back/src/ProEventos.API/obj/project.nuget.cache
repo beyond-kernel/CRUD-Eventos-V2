@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XnSTe6vKOwBCxBSDCbk9xt2kJZGF1thf33UvDrH2zE6al2lfkr3JB3RrRmdsXW0gNn669P36BEVI0dOFDbme5Q==",
+  "dgSpecHash": "9IXsjuojQx5k/FXkGPMCxwv7OIXBXMU3Ticy2IjrISgt3ralhj52+3bIH6iK+QvQc/GA0e4nfYyhW3x0bR55Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafan\\OneDrive\\Udemy\\Fullstack_AspNetCore_Angular\\ConsoleCoreV2\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\rafan\\OneDrive\\Udemy\\Fullstack_AspNetCore_Angular\\ConsoleCoreV2\\Back\\src\\Proeventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rafan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

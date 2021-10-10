@@ -1,0 +1,13 @@
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\bin\Debug\net6.0\ProEventos.Domain.deps.json
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\bin\Debug\net6.0\ref\ProEventos.Domain.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.GlobalUsings.g.cs
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.AssemblyInfo.cs
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ref\ProEventos.Domain.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Domain\obj\Debug\net6.0\ProEventos.Domain.pdb

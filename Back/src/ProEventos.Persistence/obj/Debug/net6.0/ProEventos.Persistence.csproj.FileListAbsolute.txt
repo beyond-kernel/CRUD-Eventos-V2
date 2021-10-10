@@ -1,0 +1,16 @@
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.deps.json
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ref\ProEventos.Persistence.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.GlobalUsings.g.cs
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ref\ProEventos.Persistence.dll
+C:\Users\rafan\OneDrive\Udemy\Fullstack_AspNetCore_Angular\ConsoleCoreV2\Back\src\Proeventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.pdb
