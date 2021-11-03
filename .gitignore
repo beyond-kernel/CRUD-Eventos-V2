@@ -1,3 +1,5 @@
+Back/src/ProEventos.API/bin/
+Back/src/ProEventos.API/obj/
 Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.dll
 Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.exe
 Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.pdb
@@ -54,3 +56,4 @@ Back/src/ProEventos.Persistence/obj/Debug/net6.0/ProEventos.Persistence.assets.c
 Back/src/ProEventos.Persistence/obj/Debug/net6.0/ProEventos.Persistence.csproj.CoreCompileInputs.cache
 Back/src/ProEventos.Persistence/obj/Debug/net6.0/ProEventos.Persistence.dll
 Back/src/ProEventos.Persistence/obj/Debug/net6.0/ProEventos.Persistence.pdb
+Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.assets.cache
